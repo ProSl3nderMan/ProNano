@@ -1,0 +1,9 @@
+name: ProNano
+version: ${project.version}
+main: me.ProSl3nderMan.ProNano.Main
+prefix: [ProNano]
+authors: [ProSl3nderMan]
+website: dragonsdoom.net
+commands:
+  nano:
+    description: Nano executor.
